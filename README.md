@@ -212,4 +212,8 @@ GitHub Repository: https://github.com/Aaditya979/Sepsis-detection
 
 ## License and Dataset Attribution
 
-Add the appropriate project license and cite the original dataset source and its usage terms before redistributing the dataset or derived materials.
+License
+
+The source code in this project is licensed under the MIT License. See the LICENSE file for details.
+
+The dataset and third-party dependencies may be subject to separate licenses and usage terms.
