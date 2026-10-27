@@ -71,8 +71,8 @@ scale_pos_weight = negative_count / positive_count
 # 6. Train XGBoost
 model = xgb.XGBClassifier(
     n_estimators=200,
-    learning_rate=0.05,
-    max_depth=5,
+    learning_rate=0.03,
+    max_depth=3,
     subsample=0.8,
     colsample_bytree=0.8,
     reg_lambda=1.0,
